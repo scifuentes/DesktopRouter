@@ -1,0 +1,10 @@
+*.o
+*.hex
+*.err
+*.cof
+*.map
+*.mptags
+*.tagsrc
+*.mcw
+*.X
+Makefile
